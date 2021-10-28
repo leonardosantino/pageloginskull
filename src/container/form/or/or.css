@@ -1,0 +1,14 @@
+.or {
+    display: flex;
+    justify-content: center;
+
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.75em;
+    line-height: 1.2em;
+
+    color: #DDDDDD;
+    
+    margin: 2em 0;
+}

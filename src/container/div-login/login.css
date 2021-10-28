@@ -1,0 +1,17 @@
+.login{
+    grid-area: alogin;
+
+    border-top-right-radius: 34px;
+    border-bottom-right-radius: 34px;
+
+    margin: 2em 3em;
+
+    
+
+}
+
+@media screen and (max-width: 1080px) {
+    .login{
+        margin:  0 1em;
+    }
+}

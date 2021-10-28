@@ -1,0 +1,28 @@
+.buttonlogin {
+    background: #7F265B;
+    border-radius: 6px;
+    
+
+    height: 3em;
+    width: 85%;
+    margin-bottom: 2em;
+
+    cursor: pointer;
+}
+
+.buttonlogin span {
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.divbuttonlogin {
+    display: flex;
+    justify-content: center;
+}

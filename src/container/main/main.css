@@ -1,0 +1,31 @@
+.Container{
+    display: grid;
+
+    grid-template-areas: "ailustration alogin";
+
+    grid-template-columns: 1.7fr 1fr;
+
+    background-color:  #FFFFFF;
+
+    border: .3em solid #FFFFFF;
+    box-shadow: 0px 0px 45px #E1C2A8;
+    border-radius: 34px;
+}
+@media screen and (max-width: 1080px) {
+    .Container {
+        
+        grid-area: "alogin";
+        grid-template-columns: auto;
+
+        border: none;
+        box-shadow: none;
+        border-radius: none;
+
+    }
+    .ilustration{
+        display: none;
+    }
+    body {
+        background-color: white;
+    }
+}

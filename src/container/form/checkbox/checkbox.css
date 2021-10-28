@@ -1,0 +1,36 @@
+.divforgot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 1em;
+}
+.labelcheckbox{
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+align-items: center;
+
+color: #A1A1A1;
+}
+.labelforgot {
+    text-decoration: none;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+
+    color: #7F265B;
+}
+
+.labelcheckbox input:checked{
+    background-color: #7F265B;
+    
+}
+.labelcheckbox input:focus{
+    box-shadow: none;
+}

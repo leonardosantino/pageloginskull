@@ -1,0 +1,19 @@
+
+.labelnotregister {
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #828282;
+}
+
+.labelcreateaccout {
+    text-decoration: none;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1em;
+    line-height: 25px;
+    color: #7F265B;
+}

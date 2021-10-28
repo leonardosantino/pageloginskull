@@ -1,0 +1,33 @@
+.button {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    border: 1px solid #E8E8E8;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: white;
+
+    width: 85%;
+    height: 3em;
+
+    cursor: pointer;
+}
+
+.button span {
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #828282;
+
+    margin-left: 1em;
+}
+
+.divbutton {
+    display: flex;
+    justify-content: center;
+}
+

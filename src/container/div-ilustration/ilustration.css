@@ -1,0 +1,14 @@
+.ilustration{
+    grid-area: ailustration;
+
+
+   
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(/src/assets/imgs/ilustration.png);
+
+    
+    border-top-left-radius: 34px;
+    border-bottom-left-radius: 34px;
+}
