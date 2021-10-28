@@ -7,7 +7,7 @@ function CheckBox(props) {
         
         <label htmlFor={idRandom} className="labelcheckbox"><input class="form-check-input" type="checkbox" id={idRandom} />&nbsp;{props.label}</label>
         
-        <a href="#" className="labelforgot">Forgot Password?</a>
+        <a href="###" className="labelforgot">Forgot Password?</a>
         </div>
     );
 }
