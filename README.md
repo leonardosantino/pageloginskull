@@ -1,3 +1,3 @@
-### https://pageloginskull.vercel.app/
+### https://pageportfolio.vercel.app/
 
-Designed by [@tonyzebastian](https://www.figma.com/@tonyzebastian)
+Designed by [@rauliqbal](https://www.figma.com/@rauliqbal)
